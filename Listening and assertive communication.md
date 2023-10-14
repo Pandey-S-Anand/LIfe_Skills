@@ -1,33 +1,33 @@
-**Q: What are the steps/strategies to do Active Listening?**
-- Maintain Eye Contact: Look directly at the speaker to demonstrate your engagement and interest in the conversation.
-- Provide Verbal and Non-Verbal Feedback: Offer occasional verbal cues like "I see" or nod your head to show that you're following the conversation and encourage the speaker to continue.
-- Avoid Interrupting: Refrain from interrupting or formulating your response while the other person is speaking. Let them finish before you speak.
-- Ask Open-Ended Questions: Use open-ended questions to encourage the speaker to provide more information and to delve deeper into the topic.
-- Reflect and Paraphrase: Summarize what you've heard and feed it back to the speaker in your own words to ensure you've understood correctly and to show empathy.
-- Minimize Distractions: Eliminate distractions, such as turning off your phone or finding a quiet space, to give your full attention to the speaker.
+**Q: How do you actively listen?**
+- Look at the speaker to show you're paying attention.
+- Use words like "I see" or nod to encourage them to keep talking.
+- Wait for them to finish before you speak.
+- Ask questions that make them talk more.
+- Repeat what they said in your own words to show you understand.
+- Avoid distractions, like your phone, to focus on the speaker.
 
-**Q: According to Fisher's model, what are the key points of Reflective Listening? (In simple English)**
-- Show You Get It: Reflective listening means showing the other person that you understand what they're saying. You can say things like, "I get what you mean."
-- Use Their Words: Repeat some of the words or phrases they use. It shows you're paying attention.
-- Ask Questions that Make Them Talk More: Ask questions that make them share more about what they're thinking or feeling.
-- Put It in Your Own Words: Say what they said in a way that makes sure you understood correctly. This helps them feel like you're really listening.
-- Talk About Feelings: Pay attention to how they feel, and let them know you get it. You might say, "It sounds like you're really mad or sad."
-- Let Them Speak: Allow them to talk without interrupting. It shows respect for their thoughts and feelings.
+**Q: What's Reflective Listening, in simple terms?**
+- Reflective listening is when you show you understand what the other person is saying. You can say, "I get what you mean."
+- Repeat some of the words they use to show you're listening.
+- Ask questions that make them share more about their thoughts or feelings.
+- Say what they said in your own way to make sure you got it right.
+- Pay attention to their feelings and let them know. You might say, "It sounds like you're really mad or sad."
+- Let them talk without interrupting to respect their thoughts and feelings.
 
-**Q: What are the obstacles in your listening process?**
-- I sometimes get easily distracted and lose focus.
+**Q: What makes it hard for you to listen?**
+- Sometimes, I get distracted and lose focus.
 
-**Q: What can you do to improve your listening?**
-- I can improve my listening by trying to focus more and balancing my mind through meditation.
+**Q: How can you get better at listening?**
+- To be a better listener, I can try to focus more and calm my mind through meditation.
 
-**Q: When do you switch to Passive communication style in your day-to-day life?**
-- I use passive communication when I don't want to argue, need approval, or feel scared of upsetting others. It can also happen because of cultural customs or when dealing with someone in charge.
+**Q: When do you use passive communication?**
+- I use passive communication when I don't want to argue, need approval, or am afraid of upsetting others. It might also happen because of customs or when dealing with someone in charge.
 
-**Q: When do you switch into Aggressive communication styles in your day-to-day life?**
-- I switch to an aggressive communication style in my day-to-day life when I get frustrated, want to control a conversation, or feel like my needs and opinions aren't being heard. Sometimes, it's a reaction to stress or anger.
+**Q: When do you switch to aggressive communication?**
+- I become aggressive when I'm very frustrated, want to control a conversation, or feel like my needs and opinions aren't heard. Sometimes, it's because of stress or anger.
 
-**Q: When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day-to-day life?**
-- I sometimes switch to a passive-aggressive communication style in my day-to-day life when I'm upset or frustrated, but I have difficulty expressing my feelings directly or assertively. It's a way for me to express dissatisfaction indirectly, like using sarcasm, gossip, taunts, or giving the silent treatment.
+**Q: When do you use passive-aggressive communication?**
+- I sometimes use passive-aggressive communication when I'm upset or frustrated, but I have trouble saying how I feel directly. It's a way to show I'm not happy indirectly, like using sarcasm, gossip, or not talking.
 
-**Q: How can you make your communication assertive?**
-- I can make my communication assertive in my own life by using "I" statements to express my thoughts and needs clearly and calmly. Setting boundaries and practicing self-confidence will help me assert myself while respecting others.
+**Q: How can you be more assertive in your communication?**
+- I can be more assertive by using "I" statements to clearly say what I think and need. Also, setting boundaries and having confidence will help me speak up while respecting others.
